@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//:lolaalaka.github.io/sort-duplicate/static/css/main.03fb9f63.chunk.css",
-    "main.js": "/https//:lolaalaka.github.io/sort-duplicate/static/js/main.005fb04c.chunk.js",
-    "main.js.map": "/https//:lolaalaka.github.io/sort-duplicate/static/js/main.005fb04c.chunk.js.map",
-    "runtime-main.js": "/https//:lolaalaka.github.io/sort-duplicate/static/js/runtime-main.a5016e39.js",
-    "runtime-main.js.map": "/https//:lolaalaka.github.io/sort-duplicate/static/js/runtime-main.a5016e39.js.map",
-    "static/js/2.dee43704.chunk.js": "/https//:lolaalaka.github.io/sort-duplicate/static/js/2.dee43704.chunk.js",
-    "static/js/2.dee43704.chunk.js.map": "/https//:lolaalaka.github.io/sort-duplicate/static/js/2.dee43704.chunk.js.map",
-    "static/js/3.7099dc4d.chunk.js": "/https//:lolaalaka.github.io/sort-duplicate/static/js/3.7099dc4d.chunk.js",
-    "static/js/3.7099dc4d.chunk.js.map": "/https//:lolaalaka.github.io/sort-duplicate/static/js/3.7099dc4d.chunk.js.map",
-    "index.html": "/https//:lolaalaka.github.io/sort-duplicate/index.html",
-    "static/css/main.03fb9f63.chunk.css.map": "/https//:lolaalaka.github.io/sort-duplicate/static/css/main.03fb9f63.chunk.css.map",
-    "static/js/2.dee43704.chunk.js.LICENSE.txt": "/https//:lolaalaka.github.io/sort-duplicate/static/js/2.dee43704.chunk.js.LICENSE.txt"
+    "main.css": "/sort-duplicate/static/css/main.03fb9f63.chunk.css",
+    "main.js": "/sort-duplicate/static/js/main.005fb04c.chunk.js",
+    "main.js.map": "/sort-duplicate/static/js/main.005fb04c.chunk.js.map",
+    "runtime-main.js": "/sort-duplicate/static/js/runtime-main.4994d14e.js",
+    "runtime-main.js.map": "/sort-duplicate/static/js/runtime-main.4994d14e.js.map",
+    "static/js/2.dee43704.chunk.js": "/sort-duplicate/static/js/2.dee43704.chunk.js",
+    "static/js/2.dee43704.chunk.js.map": "/sort-duplicate/static/js/2.dee43704.chunk.js.map",
+    "static/js/3.7099dc4d.chunk.js": "/sort-duplicate/static/js/3.7099dc4d.chunk.js",
+    "static/js/3.7099dc4d.chunk.js.map": "/sort-duplicate/static/js/3.7099dc4d.chunk.js.map",
+    "index.html": "/sort-duplicate/index.html",
+    "static/css/main.03fb9f63.chunk.css.map": "/sort-duplicate/static/css/main.03fb9f63.chunk.css.map",
+    "static/js/2.dee43704.chunk.js.LICENSE.txt": "/sort-duplicate/static/js/2.dee43704.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5016e39.js",
+    "static/js/runtime-main.4994d14e.js",
     "static/js/2.dee43704.chunk.js",
     "static/css/main.03fb9f63.chunk.css",
     "static/js/main.005fb04c.chunk.js"
